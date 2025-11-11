@@ -1,6 +1,5 @@
 # Employee Management SQL Project
 
-This project demonstrates my hands-on experience with SQL for the **Cognizant certification**.  
 It includes database design, table creation, data manipulation, joins, subqueries, aggregate functions, and views.
 
 ## 🧩 Database Overview
@@ -28,7 +27,4 @@ It includes database design, table creation, data manipulation, joins, subquerie
 - Employees working on specific projects  
 - Departments with highest average salaries
 
-## 🏁 Author
-**[Your Full Name]**  
-Cognizant SQL Hands-On Submission  
-[Your GitHub Profile Link]
+
